@@ -1,4 +1,4 @@
-## HomeLoan_Prediction
+## HOME LOAN DEFAULT
 
 To address the problem statement for the Home Loan Default dataset, I followed a structured approach. Here is a step-by-step plan to tackle the tasks effectively:
 
