@@ -1,9 +1,9 @@
-#### HomeLoan_Prediction
+### HomeLoan_Prediction
 
 To address the problem statement for the Home Loan Default dataset, I followed a structured approach. Here is a step-by-step plan to tackle the tasks effectively:
 
 
-### Step 1: Data Analysis Report
+## Step 1: Data Analysis Report
 1. **Data Exploration and Cleaning**
    - Load and explore the datasets.
    - Check for missing values and handle them appropriately.
@@ -26,7 +26,7 @@ To address the problem statement for the Home Loan Default dataset, I followed a
    - Identify features that are most correlated with the target variable.
    - Conduct hypothesis testing to understand the significance of these features.
 
-### Step 2: Predictive Modeling
+## Step 2: Predictive Modeling
 1. **Data Preparation**
    - Split the data into training and testing sets.
    - Normalize or standardize the data if required.
